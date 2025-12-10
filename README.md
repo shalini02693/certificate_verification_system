@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+
 # certificate_verification_system
-This is MERN full stack project
+
+This is MERN full stack project.
+
 =======
 # 🚀 Certificate Verification System (Blockchain + MERN)
 
@@ -158,6 +160,3 @@ Make sure Ganache is running.
 You can add a project demo link here later.
 
 ---
-
-
->>>>>>> fd18961 (Add files)
